@@ -2,7 +2,6 @@
 This repository contains course materials for COT3502 - Computer Model Formulation (Univ. of Florida)
 
 ## Tutorials
-Click on the following links to access tutorials for the course:
 
 [An Introduction to Python - 1. Getting Started](Tutorials/Tutorial_1.md)
 
