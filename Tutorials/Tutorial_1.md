@@ -46,7 +46,7 @@ Python is a versatile programming language compatible with a wide range of opera
 
   If this is your first time using Spyder, it may be helpful to click the “Start Tour” button when you first open the program. 
 
-  ![Description of Image](../assets/tutorial1/Tutorial1_1.png)
+  ![Overview of Spyder IDE](../assets/tutorial1/Tutorial1_1.png)
 
 - **Your First Command**: In the iPython console (Bottom Right), type the following command and hit Enter:
   ```python
@@ -57,7 +57,7 @@ Python is a versatile programming language compatible with a wide range of opera
 - **Creating a Script**: Type your Python code into the editor window. For instance, you can type the `print('Hello World')` command.
 - **Running a Script**: After typing your code, click the “Run File” button to execute the script. The output will appear in the iPython console.
 
-  ![Placeholder for Visual Aid: Screenshot of the “Run File” button](URL_TO_YOUR_IMAGE)
+  ![Running a script in Spyder](../assets/tutorial1/Tutorial1_2.png)
 
 - **Saving Scripts**: Before running your script, it's a good practice to save it. Create a dedicated folder for this course to organize your scripts. To save, navigate to `File > Save As` in Spyder's toolbar. Python scripts have a ".py" extension.
 - **Opening Scripts**: To open a previously saved script, go to `File > Open`. While these ".py" files can be opened in text editors like Notepad, using Spyder offers specialized features for Python coding.
