@@ -2,14 +2,14 @@
 
 ## Introduction
 
-A **program** is a sequence of instructions (<u> statements </u>) that dictate how to perform a computation.
+A **program** is a sequence of instructions (<ins>statements</ins>) that dictate how to perform a computation.
   - Solve a system of equations
   - Find the roots of a polynomial
   - Search and/or replace text in a document
   - Make a graph/plot of data
   - Process an image
 
-Individual statements can be run in the console
+Individual statements can be run in the **console**
 
 Simplistic hierarchy of a program: Program → Functions → Statements → Quantum Physics → Python Backend.
 
