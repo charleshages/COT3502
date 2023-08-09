@@ -91,12 +91,12 @@ Learning Python has never been more accessible, thanks to the plethora of online
    - [Real Python Tutorials](https://realpython.com/)
 
 5. **Python Crash Course**: A hands-on, project-based introduction to Python.
-   - [Python Crash Course Book](https://nostarch.com/pythoncrashcourse2e)
+   - [Python Crash Course Book](https://nostarch.com/pythoncrashcourse2e) and [resources](https://ehmatthes.github.io/pcc_3e/)
 
 6. **Python YouTube Channels**:
+   - [HagesLab Python Tutorials](https://www.youtube.com/c/HagesLab/playlists?view=50&sort=dd&shelf_id=3) (Make sure to verify the link, as I've made an educated guess on the URL based on typical YouTube channel structures.)
    - [Corey Schafer's Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
    - [Sentdex Python Programming Tutorials](https://www.youtube.com/user/sentdex)
-   - [HagesLab Python Tutorials](https://www.youtube.com/c/HagesLab/playlists?view=50&sort=dd&shelf_id=3) (Make sure to verify the link, as I've made an educated guess on the URL based on typical YouTube channel structures.)
 
 7. **Official Python Documentation**: A comprehensive resource that covers everything about Python.
    - [Python 3.x Documentation](https://docs.python.org/3/)
