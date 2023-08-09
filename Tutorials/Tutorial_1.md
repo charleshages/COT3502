@@ -8,7 +8,7 @@ Python is a versatile programming language compatible with a wide range of opera
 
 - **Open-source**: Python is free and open-source (meaning you can download the entire source code)
 - **Versatility**: Python is one of the fastest-growing programming languages globally due to its versatility and ease of use. It's suitable for various applications, from app/game development, website development, machine learning and AI, image processing, as well as advanced math and data science.
-- **Community Support**: Python is backed by a large community of programmers. This vast support community ensures that solutions to common problems are readily available. If coders run into a stumbling block or have a question about something in Python, finding a solution is relatively easy; somebody is bound to have encountered the same problem – just Google it (this is mostly how I learned Python).
+- **Community Support**: Python is backed by a large community of programmers. This vast support community ensures that solutions to common problems are readily available. If coders run into a stumbling block or have a question about something in Python, finding a solution is relatively easy; somebody is bound to have encountered the same problem.
 - **Academic Preference**: Python has become the go-to computing language in academia. It offers the same (or even better) functionality and simplicity as other paid software like MatLab and Mathematica, but for free.
 - **Real-world Applications**: Python is not just popular in academia; it's also widely adopted in the industry. Here are some notable examples:
 
@@ -55,28 +55,31 @@ Python is a versatile programming language compatible with a wide range of opera
 ## 5. Working with Scripts in Spyder
 
 - **Creating a Script**: Type your Python code into the editor window. For instance, you can type the `print('Hello World')` command.
-- **Running a Script**: After typing your code, click the “Run File” button to execute the script. The output will appear in the iPython console.
+- **Running a Script**: After typing your code, click the "Run File" button to execute the script. The output will appear in the iPython console.
 
   ![Running a script in Spyder](../assets/tutorial1/Tutorial1_2.png)
 
-- **Saving Scripts**: Before running your script, it's a good practice to save it. Create a dedicated folder for this course to organize your scripts. To save, navigate to `File > Save As` in Spyder's toolbar. Python scripts have a ".py" extension.
-- **Opening Scripts**: To open a previously saved script, go to `File > Open`. While these ".py" files can be opened in text editors like Notepad, using Spyder offers specialized features for Python coding.
+- **Saving Scripts**: Before running your script, it's a good practice to save it. You should create a dedicated folder for this course to organize your scripts. To save, navigate to `File > Save As` in Spyder's toolbar. Python scripts have a `.py` extension.
 
-## 6. Terminology Box
+   > **_Note on saving:_**  When you run a script using the "Run File" button, Spyder will automatically save the script.
+   >
+   > If the script in the editor panel has not been previously saved, Spyder will generate a new file. When generating a new file, a default file name like `untitled0.py` will be used, and the script will be saved to the current working directory in Spyder (which is displayed on the top right of the Spyder IDE window). For this reason, it is best practice to manually save your scripts so you can keep them organized with appropriate file names and in an organized directory for this class.
+   >
+   > If the script has previously been saved, clicking the "Run File" button will overwrite the previous version of the file. If you want to keep the previous version, make sure to manually save the file with a new filename before running the script. (You can tell if any changes have been made to the script since it was last saved by the appearance of an asterisk following the filename displayed at the top of the editor panel.)
+
+- **Opening Scripts**: To open a previously saved script, go to `File > Open`. While these `.py` files can be opened in text editors like Notepad, using Spyder offers specialized features for Python coding.
+
+## Terminology 
 
 - **Script**: A set of instructions written in a programming language.
 - **IDE (Integrated Development Environment)**: Software that provides comprehensive tools for software development, like Spyder for Python.
 
-## 7. What's Coming Next
-
-Stay tuned for our next tutorial, where we'll dive deeper into Python basics, including variables, data types, and basic operations!
-
-## 8. FAQ
+## FAQ
 
 - **Q**: I encountered an error in Spyder. What should I do?
   - **A**: Don't panic! Errors provide feedback. Read the error message, understand it, and try to fix the issue. If stuck, remember the vast Python community is there to help. A quick Google search can often provide a solution.
 
 ---
 
-**Congratulations!** You've taken your first step into the world of Python programming. Keep exploring, and happy coding!
+**Congratulations!** You wrote your first computer program!
 
