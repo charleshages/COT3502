@@ -11,7 +11,8 @@ A **program** is a sequence of instructions (<ins>statements</ins>) that dictate
 
 Individual statements can be run in the **console**
 
-Simplistic hierarchy of a program: Program → Functions → Statements → Quantum Physics → Python Backend.
+### Simplistic hierarchy of a program:
+[](../)
 
 ## Basic Numeric Operators
 
