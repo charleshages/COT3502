@@ -103,7 +103,7 @@ Learning Python has never been more accessible, thanks to the plethora of online
    - [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/)
 
 9. **Python YouTube Channels**:
-   - [HagesLab Python Basic](https://www.youtube.com/playlist?list=PLuzde3Za2UKFgqJfcSynTJayAaeBuqAIM)
+   - [HagesLab Python Basics](https://www.youtube.com/playlist?list=PLuzde3Za2UKFgqJfcSynTJayAaeBuqAIM)
    - [Corey Schafer's Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
    - [Sentdex Python Programming Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
 
