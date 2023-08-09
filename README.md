@@ -1,4 +1,4 @@
-# COT3502 Repository
+# COT3502
 This repository contains course materials for COT3502 - Computer Model Formulation (Univ. of Florida)
 
 # Tutorials
