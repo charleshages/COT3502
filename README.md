@@ -10,6 +10,8 @@ Click on the following links to access tutorials for the course:
 
 [An Introduction to Python - 3. Conditional Statements](Tutorials/Tutorial_3.md)
 
+[An Introduction to Python - 4. Loops](Tutorials/Tutorial_4.md)
+
 <br/>
 <br/>
 <br/>
