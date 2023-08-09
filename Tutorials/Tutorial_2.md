@@ -52,11 +52,11 @@ Strings are sequences of characters and are among the most frequently used data 
 6. `'hello world'[0:5]`
 7. `'hello world'[6:]`
 8. `'hello world'[6:11] + 'hello world'[5] + 'hello world'[:5]`
-9. `'hello world'[3]*4
-10. `'hello world'[3:]
-11. `'hello world'[:5]
-12. `'hello world'[::2]
-13. `'hello world'[::-1]
+9. `'hello world'[3]*4`
+10. `'hello world'[3:]`
+11. `'hello world'[:5]`
+12. `'hello world'[::2]`
+13. `'hello world'[::-1]`
 
 **Reflection on String Data Type Exercises:**
 
