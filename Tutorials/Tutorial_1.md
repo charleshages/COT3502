@@ -108,9 +108,10 @@ Learning Python has never been more accessible, thanks to the plethora of online
    - [Sentdex Python Programming Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
 
 10. **Official Python Documentation**: A comprehensive resource that covers everything about Python.
-   - [Python 3.x Documentation](https://docs.python.org/3/)
+    - [Python 3.x Documentation](https://docs.python.org/3/)
+     
  11. **Spyder Documentation**: Detailed documentation on how to use the Spyder IDE effectively.
-   - [Spyder Official Docs](https://docs.spyder-ide.org/current/index.html)
+     - [Spyder Official Docs](https://docs.spyder-ide.org/current/index.html)
 
 Remember, while these resources are valuable, the best way to learn is by doing. Regular practice and application of what you learn will solidify your understanding.
 
