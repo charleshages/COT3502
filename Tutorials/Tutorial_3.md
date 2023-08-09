@@ -57,12 +57,8 @@ else:
 
 1. **Temperature Checker**: Write a program that asks the user for the current temperature and prints whether it's hot, warm, or cold. Consider above 25°C as hot, between 15°C and 25°C as warm, and below 15°C as cold.
 
-2. **Grade Calculator**: Ask the user for their exam score and print their grade. Use the following grading system: A (>=90), B (>=80), C (>=70), D (>=60), and F (<60).
-
-3. **Leap Year Checker**: Write a program that checks if a given year is a leap year. A leap year is divisible by 4 but not divisible by 100 unless it's also divisible by 400.
-
 <details>
-<summary>Click to reveal the answers</summary>
+<summary>*Click to reveal the answers*</summary>
 
 ```python
 # Temperature Checker
@@ -73,7 +69,16 @@ elif 15 <= temp <= 25:
     print("It's warm.")
 else:
     print("It's cold.")
+```
 
+</details>
+
+3. **Grade Calculator**: Ask the user for their exam score and print their grade. Use the following grading system: A (>=90), B (>=80), C (>=70), D (>=60), and F (<60).
+
+<details>
+<summary>*Click to reveal the answers*</summary>
+
+```python
 # Grade Calculator
 score = float(input("Enter your exam score: "))
 if score >= 90:
@@ -86,7 +91,16 @@ elif score >= 60:
     print("Your grade is D")
 else:
     print("Your grade is F")
+```
 
+</details>
+
+4. **Leap Year Checker**: Write a program that checks if a given year is a leap year. A leap year is divisible by 4 but not divisible by 100 unless it's also divisible by 400.
+
+<details>
+<summary>Click to reveal the answers</summary>
+
+```python
 # Leap Year Checker
 year = int(input("Enter a year: "))
 if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
