@@ -46,7 +46,7 @@ Python is a versatile programming language compatible with a wide range of opera
 
   If this is your first time using Spyder, it may be helpful to click the “Start Tour” button when you first open the program. 
 
-  ![Description of Image](../../assets/tutorial1/Tutorial1_1.svg)
+  ![Description of Image](../assets/tutorial1/Tutorial1_1.png)
 
 - **Your First Command**: In the iPython console (Bottom Right), type the following command and hit Enter:
   ```python
