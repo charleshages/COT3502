@@ -94,9 +94,9 @@ Learning Python has never been more accessible, thanks to the plethora of online
    - [Python Crash Course Book](https://nostarch.com/pythoncrashcourse2e) and [resources](https://ehmatthes.github.io/pcc_3e/)
 
 6. **Python YouTube Channels**:
-   - [HagesLab Python Tutorials](https://www.youtube.com/c/HagesLab/playlists?view=50&sort=dd&shelf_id=3) (Make sure to verify the link, as I've made an educated guess on the URL based on typical YouTube channel structures.)
+   - [HagesLab Python Basic]([https://www.youtube.com/c/HagesLab/playlists?view=50&sort=dd&shelf_id=3](https://www.youtube.com/playlist?list=PLuzde3Za2UKFgqJfcSynTJayAaeBuqAIM)
    - [Corey Schafer's Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
-   - [Sentdex Python Programming Tutorials](https://www.youtube.com/user/sentdex)
+   - [Sentdex Python Programming Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
 
 7. **Official Python Documentation**: A comprehensive resource that covers everything about Python.
    - [Python 3.x Documentation](https://docs.python.org/3/)
@@ -105,7 +105,6 @@ Learning Python has never been more accessible, thanks to the plethora of online
    - [Spyder Official Docs](https://docs.spyder-ide.org/current/index.html)
 
 Remember, while these resources are valuable, the best way to learn is by doing. Regular practice and application of what you learn will solidify your understanding.
-
 
 ## FAQ
 
