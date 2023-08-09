@@ -1,4 +1,4 @@
-# An Introduction to Python 3: Conditional Statements
+# An Introduction to Python: 3. Conditional Statements
 
 Conditional statements are the building blocks of decision-making in programming. They allow your code to execute different actions based on specific conditions. In this tutorial, we'll explore the fundamental conditional statements in Python: `if`, `elif`, and `else`.
 
