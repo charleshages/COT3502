@@ -55,10 +55,10 @@ else:
 
 ## Exercises
 
-1. **Temperature Checker**: Write a program that asks the user for the current temperature and prints whether it's hot, warm, or cold. Consider above 25°C as hot, between 15°C and 25°C as warm, and below 15°C as cold.
+1. **Temperature Checker**: Write a program that asks the user to input the current temperature. Then, have the program print whether it's hot, warm, or cold. Consider above 25°C as hot, between 15°C and 25°C as warm, and below 15°C as cold.
 
 <details>
-<summary><i></i>Click to reveal the answers<\i></summary>
+<summary><i>Click to reveal the answers</i></summary>
 
 ```python
 # Temperature Checker
@@ -73,10 +73,10 @@ else:
 
 </details>
 
-3. **Grade Calculator**: Ask the user for their exam score and print their grade. Use the following grading system: A (>=90), B (>=80), C (>=70), D (>=60), and F (<60).
+2. **Grade Calculator**: Write a program that asks the user to input their exam score.. Then, have the program print their grade. Use the following grading system: A (>=90), B (>=80), C (>=70), D (>=60), and F (<60).
 
 <details>
-<summary><i></i>Click to reveal the answers<\i></summary>
+<summary><i>Click to reveal the answers</i></summary>
 
 ```python
 # Grade Calculator
@@ -95,10 +95,10 @@ else:
 
 </details>
 
-4. **Leap Year Checker**: Write a program that checks if a given year is a leap year. A leap year is divisible by 4 but not divisible by 100 unless it's also divisible by 400.
+3. **Leap Year Checker**: Write a program that takes an input year and checks if the given year is a leap year. A leap year is divisible by 4 but not divisible by 100 unless it's also divisible by 400.
 
 <details>
-<summary><i></i>Click to reveal the answers<\i></summary>
+<summary><i>Click to reveal the answers</i></summary>
 
 ```python
 # Leap Year Checker
@@ -111,12 +111,15 @@ else:
 
 </details>
 
-### Reflections
+## Reflections
 
-After completing the exercises:
+Having completed this tutorial on Conditional Statements, let's take a moment to reflect on what we've learned:
 
-- Reflect on the importance of the order of conditions, especially when using multiple `elif` statements.
-- Consider how nesting conditional statements can lead to more complex decision-making structures. How might you use nested conditions in future programs?
+1. **Decision Making in Programming**: Just as in real life, where we make decisions based on certain conditions, in programming, we use conditional statements to allow our code to make decisions. This is a foundational concept in all of programming, making your code dynamic and responsive to different inputs or situations.
+
+2. **Versatility of Conditional Statements**: The exercises demonstrated the versatility of `if`, `elif`, and `else` statements. Whether determining temperature ranges, grading scales, or leap years, conditional statements provide the logic backbone to many operations.
+
+3. **Nested and Compound Conditions**: By nesting conditions or combining them with logical operators (`and`, `or`, `not`), we can create more complex decision-making structures. This allows for more nuanced and detailed conditions in our programs.
 
 ## Conclusion
 
