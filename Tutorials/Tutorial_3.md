@@ -58,7 +58,7 @@ else:
 1. **Temperature Checker**: Write a program that asks the user for the current temperature and prints whether it's hot, warm, or cold. Consider above 25°C as hot, between 15°C and 25°C as warm, and below 15°C as cold.
 
 <details>
-<summary>*Click to reveal the answers*</summary>
+<summary><i></i>Click to reveal the answers<\i></summary>
 
 ```python
 # Temperature Checker
@@ -76,7 +76,7 @@ else:
 3. **Grade Calculator**: Ask the user for their exam score and print their grade. Use the following grading system: A (>=90), B (>=80), C (>=70), D (>=60), and F (<60).
 
 <details>
-<summary>*Click to reveal the answers*</summary>
+<summary><i></i>Click to reveal the answers<\i></summary>
 
 ```python
 # Grade Calculator
@@ -98,7 +98,7 @@ else:
 4. **Leap Year Checker**: Write a program that checks if a given year is a leap year. A leap year is divisible by 4 but not divisible by 100 unless it's also divisible by 400.
 
 <details>
-<summary>Click to reveal the answers</summary>
+<summary><i></i>Click to reveal the answers<\i></summary>
 
 ```python
 # Leap Year Checker
