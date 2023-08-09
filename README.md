@@ -8,6 +8,8 @@ Click on the following links to access tutorials for the course:
 
 [An Introduction to Python - 2. Data Types, Operators, Variables, and Errors](Tutorials/Tutorial_2.md)
 
+[An Introduction to Python - 3. Conditional Statements](Tutorials/Tutorial_3.md)
+
 <br/>
 <br/>
 <br/>
