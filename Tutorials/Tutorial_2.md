@@ -166,46 +166,51 @@ Understanding boolean logic is essential, especially when you start working with
 Errors are an integral part of the programming journey. They provide feedback about what's wrong with your code. In Python, errors are categorized into different types, and the error message often gives a clue about the nature of the problem.
 
 **Instructions**:
-- For each expression below, try to predict the type of error you expect to encounter before executing the expression in Python.
-- Use the iPython console to evaluate the expressions.
-- Compare your predictions with the actual error messages. If there's a discrepancy, try to understand why.
+- For each expression below, try to predict why an error will occur before you execute each expression in Python.
+- Use the iPython console to evaluate the expressions, noting the type of error that is returned.
+- Compare your predictions with the actual reasons for the error, which can be found by clicking the approratie text below. Don't reveal the explanation for the errors below untill after you have made your own prediction! If there's a discrepancy, try to understand why.
 
 **Exercises**:
 1. `'hello'/'goodbye'`
 <details>
-  <summary>Click to reveal why there is an error</summary>
-  
-  Error because you can't divide strings.
+  <summary><i>Click to reveal why there is an error</i></summary>
+
+  > Error because you can't divide strings.
 </details>
+
 2. `'COT'[1] - 'COT'[2]`
 <details>
-  <summary>Click to reveal why there is an error</summary>
-  
-  Error because you can't subtract characters.
+  <summary><i>Click to reveal why there is an error</i></summary>
+
+  > Error because you can't subtract characters.
 </details>
+
 3. `'hello'/2`
 <details>
-  <summary>Click to reveal why there is an error</summary>
-  
-  Error because you can't divide a string by a number.
+  <summary><i>Click to reveal why there is an error</i></summary>
+
+  > Error because you can't divide a string by a number.
 </details>
+
 4. `5.0 not in 1.0`
 <details>
-  <summary>Click to reveal why there is an error</summary>
-  
-  Error because `not in` expects an iterable on the right side.
+  <summary><i>Click to reveal why there is an error</i></summary>
+
+  > Error because `not in` expects an iterable on the right side.
 </details>
+
 5. `8753[0:1]`
 <details>
-  <summary>Click to reveal why there is an error</summary>
-  
-  Error because you can't slice a number.
+  <summary><i>Click to reveal why there is an error</i></summary>
+
+  > Error because you can't slice a number.
 </details>
+
 6. `x == 3`
 <details>
-  <summary>Click to reveal why there is an error</summary>
-  
-  Error if x hasn't been defined.
+  <summary><i>Click to reveal why there is an error</i></summary>
+
+  > Error if x hasn't been defined.
 </details>
 
 **Reflection on Errors Exercises:**
