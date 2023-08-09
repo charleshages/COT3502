@@ -299,40 +299,42 @@ Both `break` and `continue` can be used in `for` and `while` loops, but use them
       </details>
       </br>
       
-6. Write a `for` loop that prints numbers from 1 to 10, but stops (breaks) the loop when it reaches 5.
+6. Write a program that prompts the user to input numbers continuously. The program should stop when the user enters the number `999` and then print out the last number entered before `999`.
 
-      **Reflection:** Understand the utility of the `break` statement in controlling loop execution.
-  
-      <details>
-      <summary><i>Click to reveal a possible answer</i></summary>
-      
-      ```python
-      for i in range(1, 11):
-          if i == 5:
-              break
-          print(i)
-      ```
-  
-      </details>
-      </br>
-      
-7. Write a `for` loop that prints numbers from 1 to 10, but skips (continues) the loop when it reaches 5.
+    **Reflection:** This exercise aims to familiarize you with the `break` statement, allowing you to exit a loop based on a specific condition.
+    
+    <details>
+    <summary><i>Click to reveal a possible answer</i></summary>
+    
+    ```python
+    last_num = None
+    while True:
+        num = int(input("Enter a number (999 to stop): "))
+        if num == 999:
+            break
+        last_num = num
+    print(f"Last number entered before 999: {last_num}")
+    ```
+    
+    </details>
+    </br>
 
-      **Reflection:** Grasp the concept of the `continue` statement to skip certain iterations in a loop.
-      
-      <details>
-      <summary><i>Click to reveal a possible answer</i></summary>
-      
-      ```python
-      for i in range(1, 11):
-          if i == 5:
-              continue
-          print(i)
-      ```
-      
-      </details>
-      </br>
+7. Create a program that prints numbers from 1 to 20, but skips any number that is divisible by 4.
 
+    **Reflection:** This exercise introduces the `continue` statement, allowing you to skip certain iterations of a loop based on a condition.
+    
+    <details>
+    <summary><i>Click to reveal a possible answer</i></summary>
+    
+    ```python
+    for i in range(1, 21):
+        if i % 4 == 0:
+            continue
+        print(i)
+    ```
+    
+    </details>
+    </br>
 ## Conclusion
 
 Loops are a cornerstone in Python programming. You've seen how loops can simplify repetitive tasks, making your code more efficient and readable. The importance of understanding loop conditions to predict and control the number of iterations cannot be understated. The `while` loop offers versatility, especially when the iteration count isn't predetermined. In contrast, the `for` loop is ideal for iterating over sequences or when the range is known. As you progress in Python, you'll encounter more advanced loop topics, enhancing your coding efficiency and expanding your problem-solving toolkit.
