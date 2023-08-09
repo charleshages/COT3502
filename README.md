@@ -4,7 +4,7 @@ Course Materials for COT3502 - Computer Model Formulation (Univ. of Florida)
 # Tutorials
 Click on the following links to access tutorials for the course:
 
-[Tutorial 1: An Introduction to Python - Getting Started](Tutorial_1.md)
+[Tutorial 1: An Introduction to Python - Getting Started](Tutorials/Tutorial_1.md)
 
 <br/>
 <br/>
