@@ -83,25 +83,33 @@ Learning Python has never been more accessible, thanks to the plethora of online
 
 2. **Automate the Boring Stuff with Python**: A popular book (available online for free) that teaches Python through practical projects.
    - [Automate the Boring Stuff](https://automatetheboringstuff.com/)
+  
+3. **Think Python**: A beginner-friendly book that offers a hands-on approach to understanding Python. The book is available for free online.
+   - [Think Python 2nd Edition](https://greenteapress.com/thinkpython2/html/index.html)
 
-3. **Python Beginner's Guide**: A beginner-friendly introduction to Python.
+4. **Python Beginner's Guide**: A beginner-friendly introduction to Python.
    - [Python.org's Beginner Guide](https://docs.python.org/3/tutorial/index.html)
 
-4. **Real Python**: Offers a mix of free and premium tutorials, articles, and videos on various Python topics.
+5. **Real Python**: Offers a mix of free and premium tutorials, articles, and videos on various Python topics.
    - [Real Python Tutorials](https://realpython.com/)
 
-5. **Python Crash Course**: A hands-on, project-based introduction to Python.
+6. **Python Crash Course**: A hands-on, project-based introduction to Python.
    - [Python Crash Course Book](https://nostarch.com/pythoncrashcourse2e) and [resources](https://ehmatthes.github.io/pcc_3e/)
+  
+7. **The Big Book of Small Python Projects**: Dive into Python with fun, practical projects that you can code and run. Suitable for beginners and available for free online.
+   - [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
 
-6. **Python YouTube Channels**:
-   - [HagesLab Python Basic]([https://www.youtube.com/c/HagesLab/playlists?view=50&sort=dd&shelf_id=3](https://www.youtube.com/playlist?list=PLuzde3Za2UKFgqJfcSynTJayAaeBuqAIM)
+8. **Beyond the Basic Stuff with Python**: For those who have grasped the basics and are ready to move on to more advanced topics, this book provides deeper insights and practical examples. Available for free online.
+   - [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/)
+
+9. **Python YouTube Channels**:
+   - [HagesLab Python Basic](https://www.youtube.com/playlist?list=PLuzde3Za2UKFgqJfcSynTJayAaeBuqAIM)
    - [Corey Schafer's Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
    - [Sentdex Python Programming Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
 
-7. **Official Python Documentation**: A comprehensive resource that covers everything about Python.
+10. **Official Python Documentation**: A comprehensive resource that covers everything about Python.
    - [Python 3.x Documentation](https://docs.python.org/3/)
-
-8. **Spyder Documentation**: Detailed documentation on how to use the Spyder IDE effectively.
+ 11. **Spyder Documentation**: Detailed documentation on how to use the Spyder IDE effectively.
    - [Spyder Official Docs](https://docs.spyder-ide.org/current/index.html)
 
 Remember, while these resources are valuable, the best way to learn is by doing. Regular practice and application of what you learn will solidify your understanding.
