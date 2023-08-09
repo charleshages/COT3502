@@ -4,7 +4,8 @@ This repository contains course materials for COT3502 - Computer Model Formulati
 # Tutorials
 Click on the following links to access tutorials for the course:
 
-[Tutorial 1: An Introduction to Python - Getting Started](Tutorials/Tutorial_1.md)
+[Tutorial 1: An Introduction to Python - Getting Started:](Tutorials/Tutorial_1.md)
+[Tutorial 2: An Introduction to Python - Getting Started:](Tutorials/Tutorial_2.md)
 
 <br/>
 <br/>
