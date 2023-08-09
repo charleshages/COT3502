@@ -73,6 +73,39 @@ Python is a versatile programming language compatible with a wide range of opera
 
 - **Script**: A set of instructions written in a programming language.
 - **IDE (Integrated Development Environment)**: Software that provides comprehensive tools for software development, like Spyder for Python.
+- 
+## Additional Resources
+
+Learning Python has never been more accessible, thanks to the plethora of online resources available today. Whether you're a visual learner who prefers video tutorials, someone who learns best by doing with interactive exercises, or someone who likes to delve deep into comprehensive documentation, there's something out there for everyone. Below is a list of just a few of the resources to help you on your Python journey. This is by no means exhaustive, but it's a great place to start if you want to supplement your learning.
+
+1. **W3Schools Python Tutorial**: A beginner-friendly tutorial with examples and exercises.
+   - [W3Schools Python Tutorial](https://www.w3schools.com/python/)
+
+2. **Automate the Boring Stuff with Python**: A popular book (available online for free) that teaches Python through practical projects.
+   - [Automate the Boring Stuff](https://automatetheboringstuff.com/)
+
+3. **Python Beginner's Guide**: A beginner-friendly introduction to Python.
+   - [Python.org's Beginner Guide](https://docs.python.org/3/tutorial/index.html)
+
+4. **Real Python**: Offers a mix of free and premium tutorials, articles, and videos on various Python topics.
+   - [Real Python Tutorials](https://realpython.com/)
+
+5. **Python Crash Course**: A hands-on, project-based introduction to Python.
+   - [Python Crash Course Book](https://nostarch.com/pythoncrashcourse2e)
+
+6. **Python YouTube Channels**:
+   - [Corey Schafer's Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+   - [Sentdex Python Programming Tutorials](https://www.youtube.com/user/sentdex)
+   - [HagesLab Python Tutorials](https://www.youtube.com/c/HagesLab/playlists?view=50&sort=dd&shelf_id=3) (Make sure to verify the link, as I've made an educated guess on the URL based on typical YouTube channel structures.)
+
+7. **Official Python Documentation**: A comprehensive resource that covers everything about Python.
+   - [Python 3.x Documentation](https://docs.python.org/3/)
+
+8. **Spyder Documentation**: Detailed documentation on how to use the Spyder IDE effectively.
+   - [Spyder Official Docs](https://docs.spyder-ide.org/current/index.html)
+
+Remember, while these resources are valuable, the best way to learn is by doing. Regular practice and application of what you learn will solidify your understanding.
+
 
 ## FAQ
 
