@@ -52,9 +52,11 @@ Strings are sequences of characters and are among the most frequently used data 
 6. `'hello world'[0:5]`
 7. `'hello world'[6:]`
 8. `'hello world'[6:11] + 'hello world'[5] + 'hello world'[:5]`
-9. `'hello'.upper()`
-10. `'HELLO'.lower()`
-11. `'hello world'.replace('world', 'Python')`
+9. `'hello world'[3]*4
+10. `'hello world'[3:]
+11. `'hello world'[:5]
+12. `'hello world'[::2]
+13. `'hello world'[::-1]
 
 **Reflection on String Data Type Exercises:**
 
@@ -134,7 +136,7 @@ Boolean data type in Python can have two values: `True` or `False`. These are of
 
 **Instructions**:
 - For each expression below, try to predict the boolean outcome before executing the expression in Python.
-- Use the iPython console (or any Python environment you're using) to evaluate the expressions.
+- Use the iPython console to evaluate the expressions.
 - Compare your predictions with the actual output. If there's a discrepancy, try to understand why.
 
 **Exercises**:
@@ -169,12 +171,42 @@ Errors are an integral part of the programming journey. They provide feedback ab
 - Compare your predictions with the actual error messages. If there's a discrepancy, try to understand why.
 
 **Exercises**:
-1. `'hello'/'goodbye'` *(Error because you can't divide strings)*
-2. `'COT'[1] - 'COT'[2]` *(Error because you can't subtract characters)*
-3. `'hello'/2` *(Error because you can't divide a string by a number)*
-4. `5.0 not in 1.0` *(Error because `not in` expects an iterable on the right side)*
-5. `8753[0:1]` *(Error because you can't slice a number)*
-6. `x == 3` *(Error if x hasn't been defined)*
+1. `'hello'/'goodbye'`
+<details>
+  <summary>Click to reveal why there is an error</summary>
+  
+  Error because you can't divide strings.
+</details>
+2. `'COT'[1] - 'COT'[2]`
+<details>
+  <summary>Click to reveal why there is an error</summary>
+  
+  Error because you can't subtract characters.
+</details>
+3. `'hello'/2`
+<details>
+  <summary>Click to reveal why there is an error</summary>
+  
+  Error because you can't divide a string by a number.
+</details>
+4. `5.0 not in 1.0`
+<details>
+  <summary>Click to reveal why there is an error</summary>
+  
+  Error because `not in` expects an iterable on the right side.
+</details>
+5. `8753[0:1]`
+<details>
+  <summary>Click to reveal why there is an error</summary>
+  
+  Error because you can't slice a number.
+</details>
+6. `x == 3`
+<details>
+  <summary>Click to reveal why there is an error</summary>
+  
+  Error if x hasn't been defined.
+</details>
 
 **Reflection on Errors Exercises:**
 
