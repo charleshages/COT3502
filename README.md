@@ -11,6 +11,10 @@ This repository contains course materials for COT3502 - Computer Model Formulati
 
 [An Introduction to Python - 4. Loops](Tutorials/Tutorial_4.md)
 
+## Lectures
+
+[Lecture 1: Data Types](Lectures/Lecture_2.md)
+
 <br/>
 <br/>
 <br/>
