@@ -11,32 +11,68 @@ A **program** is a sequence of instructions (<ins>statements</ins>) that dictate
 
 Individual statements can be run in the **console**
 
-### Simplistic hierarchy of a program:
-[](../)
+**Simplistic hierarchy of a program:**
+![Illustration comparing atomic/cell hierarchy to object/program hierarchy](../assets/L2_1.PNG)
 
-## Basic Numeric Operators
+## Basic Numeric (Math) Operators in Python
 
 Python provides basic math operators:
+  - `+` : Addition
+  - `-` : Subtraction
+  - `*` : Multiplication
+  - `/` : Division
+  - `//`: Floor Division
+  - `**`: Exponentiation
+  - `%`: Modulus
 
-- `+` : Addition
-- `-` : Subtraction
-- `*` : Multiplication
-- `/` : Division
-- `//`: Floor Division
-- `**`: Exponentiation
+Operators and objects can be used to build statements.
+  
+A statement that evaluates to produce a result is called an <ins>expression</ins>
 
-> **Note**: Importance of the order of operations and precedence.
+Example:
+- Expression: `5*3`  Result: `15`
+
+### Precedence
+
+Expressions evaluate by “Order of Operations” or <ins>precedence<\ins>.
+> Think PEMDAS
+
+| Symbol    | Precedence |
+| -------- | ------- |
+| `+` and `-`  | Low |
+| `/` and `//` and `*` | &uarr; |
+| `**` | High |
+
+Operators with equivalent precedence evaluate left-to-right. Same basic idea as your calculator…
+
+---
+Examples:
+- `5+3+2`
+    (add result in display to click)
+- `5+3*2`
+    (add result in display to click)
+---
 
 ## Data Types
 
-Python introduces basic data types:
+### Numeric data types:
 
-- `int` : Integer (e.g., 5, 3)
-- `float` : Floating-point numbers (e.g., 3.14)
-- `bool` : Booleans (e.g., True, False)
-- `str` : Text strings (e.g., 'Hi')
+| Type | Description | Example |
+|------|-------------|---------|
+|`int`|integer|`5` or `3`|
+|`float`|Real (floating point) number|`3.14`|
 
-### Type Inheritance and Data Type Conversion
+Operators act on objects depending on their <ins>type</ins>.
+
+Use `type()` to determine the data type
+
+### Python Code is just plain text
+
+![Screenshot of Python IDE vs Notepad](../assets/L2_2.PNG)
+
+![Screenshot of Python IDE vs Notepad++](../assets/L2_3.PNG)
+
+### Data Type Inheritance
 
 - Conversion functions: `int()`, `float()`, `str()`
 
