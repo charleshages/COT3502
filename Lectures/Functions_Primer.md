@@ -1,4 +1,4 @@
-## Functions: A Primer
+# Functions: A Primer
 
 In Python, a function is a reusable piece of code that performs a specific task. Think of functions as little machines: you feed them some input, they process it, and then they give you some output. 
 
