@@ -14,48 +14,9 @@ Individual statements can be run in the **console**
 **Simplistic hierarchy of a program:**
 ![Illustration comparing atomic/cell hierarchy to object/program hierarchy](../assets/L2_1.PNG)
 
-## Basic Numeric (Math) Operators in Python
+## Objects and Data Types
 
-Python provides basic math operators:
-  - `+` : Addition
-  - `-` : Subtraction
-  - `*` : Multiplication
-  - `/` : Division
-  - `//`: Floor Division
-  - `**`: Exponentiation
-  - `%`: Modulus
-
-Operators and objects can be used to build statements.
-  
-A statement that evaluates to produce a result is called an <ins>expression</ins>
-
-*add exercises*
-Example:
-- Expression: `5*3`  Result: `15`
-
-### Precedence
-
-Expressions evaluate by “Order of Operations” or <ins>precedence<\ins>.
-> Think PEMDAS
-
-| Symbol    | Precedence |
-| -------- | ------- |
-| `+` and `-`  | Low |
-| `/` and `//` and `*` | &uarr; |
-| `**` | High |
-
-Operators with equivalent precedence evaluate left-to-right. Same basic idea as your calculator…
-
----
-*add exercises*
-Examples:
-- `5+3+2`
-    (add result in display to click)
-- `5+3*2`
-    (add result in display to click)
----
-
-## Data Types
+Objects can be assembled into statements to build programs in python. Objects can be of many types...
 
 ### Numeric data types:
 
@@ -64,21 +25,11 @@ Examples:
 |`int`|integer|`5` or `3`|
 |`float`|Real (floating point) number|`3.14`|
 
-Operators act on objects depending on their <ins>type</ins>.
-
 Use `type()` to determine the data type 
 
 *add exercises*
 
-### Python Code is just plain text
-
-![Screenshot of Python IDE vs Notepad](../assets/L2_2.PNG)
-
-In an IDE, colors are used toi distingush different classes of operators
-
-![Screenshot of Python IDE vs Notepad++](../assets/L2_3.PNG)
-
-### Data Type Inheritance
+##### Numeric Data Type Inheritance
 
 <table>
     <thead>
@@ -146,15 +97,73 @@ In an IDE, colors are used toi distingush different classes of operators
 |`float`|Real (floating point) number|`3.14`|
 |`bool`|Boolean|`True`, `False`|
 
-## Keywords
+> ### Formatting of objects in an IDE
+> **Python Code is just plain text**
+>
+> ![Screenshot of Python IDE vs Notepad](../assets/L2_2.PNG)
+> ![Screenshot of Python IDE vs Notepad++](../assets/L2_3.PNG)
+>
+> In an IDE, colors are used to distingush different classes of operators
+>
+> ![Screenshot of Python IDE vs Notepad++](../assets/L2_4.PNG)
 
-Reserved words in Python:
+### Keywords
 
-- `False`, `await`, `else`, `import`, `pass`, ... (and so on)
+Example keywords in Python:
 
-> **Note**: These keywords have special meanings and purposes built into the Python language.
+![Screenshot of keywords in python](../assets/L2_5.PNG)
 
-## Boolean Operators
+> **Note**: These keywords have special meanings and purposes built into the Python language. They are resevred and cannot by used as variables or names, for example.
+
+## Operators 
+
+Objects and operators can be built into statements.
+
+Operators act on objects depending on their <ins>type</ins>.
+
+### Numeric (Math) Operators in Python
+
+Python provides basic math operators:
+  - `+` : Addition
+  - `-` : Subtraction
+  - `*` : Multiplication
+  - `/` : Division
+  - `//`: Floor Division
+  - `**`: Exponentiation
+  - `%`: Modulus
+
+Operators and objects can be used to build statements.
+  
+A statement that evaluates to produce a result is called an <ins>expression</ins>
+
+*add exercises*
+Example:
+- Expression: `5*3`  Result: `15`
+
+### Precedence
+
+Expressions evaluate by “Order of Operations” or <ins>precedence<\ins>.
+> Think PEMDAS
+
+| Symbol    | Precedence |
+| -------- | ------- |
+| `+` and `-`  | Low |
+| `/` and `//` and `*` | &uarr; |
+| `**` | High |
+
+Operators with equivalent precedence evaluate left-to-right. Same basic idea as your calculator…
+
+---
+*add exercises*
+Examples:
+- `5+3+2`
+    (add result in display to click)
+- `5+3*2`
+    (add result in display to click)
+---
+
+
+### Boolean Operators
 
 Basic boolean (comparison) operators in Python:
 
@@ -171,7 +180,7 @@ Logical operators:
 - `and`: Returns True if both expressions are true
 - `not`: Reverses the Boolean result of an expression
 
-## String Operations
+### String Operations
 
 String operations in Python:
 
