@@ -29,6 +29,7 @@ Operators and objects can be used to build statements.
   
 A statement that evaluates to produce a result is called an <ins>expression</ins>
 
+*add exercises*
 Example:
 - Expression: `5*3`  Result: `15`
 
@@ -46,6 +47,7 @@ Expressions evaluate by “Order of Operations” or <ins>precedence<\ins>.
 Operators with equivalent precedence evaluate left-to-right. Same basic idea as your calculator…
 
 ---
+*add exercises*
 Examples:
 - `5+3+2`
     (add result in display to click)
@@ -64,17 +66,85 @@ Examples:
 
 Operators act on objects depending on their <ins>type</ins>.
 
-Use `type()` to determine the data type
+Use `type()` to determine the data type 
+
+*add exercises*
 
 ### Python Code is just plain text
 
 ![Screenshot of Python IDE vs Notepad](../assets/L2_2.PNG)
 
+In an IDE, colors are used toi distingush different classes of operators
+
 ![Screenshot of Python IDE vs Notepad++](../assets/L2_3.PNG)
 
 ### Data Type Inheritance
 
-- Conversion functions: `int()`, `float()`, `str()`
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">Input</th>
+            <th colspan="2">Output</th>
+        </tr>
+        <tr>
+            <th>Expression</th>
+            <th>Data Type</th>
+            <th>Result</th>
+            <th>Data Type</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center"><code>5*3</code></td>
+            <td align="center"><code>int</code> <code>+</code> <code>int</code></td>
+            <td align="center"><code>15</code></td>
+            <td align="center"><code>int</code></td>
+        </tr>
+        <tr>
+            <td align="center"><code>5.0*3.0</code></td>
+            <td align="center"><code>float</code> <code>+</code> <code>float</code></td>
+            <td align="center"><code>15.0</code></td>
+            <td align="center"><code>float</code></td>
+        </tr>
+        <tr>
+            <td align="center"><code>5.0*3</code></td>
+            <td align="center"><code>float</code> <code>+</code> <code>int</code></td>
+            <td align="center"><code>15.0</code></td>
+            <td align="center"><code>float</code><sup>[1]</sup></td>
+        </tr>
+        <tr>
+            <td align="center"><code>4/2</code> or <code>4//2</code></td>
+            <td align="center">Any Types</td>
+            <td align="center"><code>2.0</code></td>
+            <td align="center"><code>float</code><sup>[2]</sup></td>
+        </tr>
+        <tr>
+            <td align="center"><code>4//2</code> or <code>5//3</code></td>
+            <td align="center"><code>int</code> <code>//</code> <code>int</code></td>
+            <td align="center"><code>2</code> or <code>1</code></td>
+            <td align="center"><code>int</code></td>
+        </tr>
+        <tr>
+            <td align="center"><code>5.0//3.0</code></td>
+            <td align="center"><code>float</code> <code>//</code> <code>float</code></td>
+            <td align="center"><code>1.0</code></td>
+            <td align="center"><code>float</code></td>
+        </tr>
+    </tbody>
+</table>
+
+<sup>[1]</sup> Lower rank date type is promoted.
+<sup>[2]</sup> Division always outputs float.
+
+*Add info on data type ranks*
+
+### Boolean data type:
+
+| Type | Description | Example |
+|------|-------------|---------|
+|`int`|integer|`5` or `3`|
+|`float`|Real (floating point) number|`3.14`|
+|`bool`|Boolean|`True`, `False`|
 
 ## Keywords
 
