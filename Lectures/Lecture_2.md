@@ -105,13 +105,13 @@ Use `type()` to determine the data type
 >
 > In an IDE, colors are used to distingush different classes of operators
 >
-> ![Screenshot of Python IDE vs Notepad++](../assets/L2_4.PNG)
+> ![Screenshot of Python IDE vs Notepad++](../assets/L2_4.png)
 
 ### Keywords
 
 Example keywords in Python:
 
-![Screenshot of keywords in python](../assets/L2_5.PNG)
+![Screenshot of keywords in python](../assets/L2_5.png)
 
 > **Note**: These keywords have special meanings and purposes built into the Python language. They are resevred and cannot by used as variables or names, for example.
 
