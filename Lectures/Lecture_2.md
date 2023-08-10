@@ -1,4 +1,4 @@
-# Lecture 2: Data Types, Operators, and Expressions
+# Lecture 1: Data Types, Operators, and Expressions
 
 ## Introduction
 
