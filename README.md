@@ -3,17 +3,12 @@ This repository contains course materials for COT3502 - Computer Model Formulati
 
 ## Tutorials
 
-[An Introduction to Python - 1. Getting Started](https://colab.research.google.com/drive/1bAGzmCsRaMTRMbOBFEILix-OAa600Cmn?usp=sharing)
+[Tutorial 1: An Introduction to Python - Getting Started](https://colab.research.google.com/drive/1bAGzmCsRaMTRMbOBFEILix-OAa600Cmn?usp=sharing)
 
-[An Introduction to Python - 2. Data Types, Operators, Variables, and Errors](Tutorials/Tutorial_2.md)
 
-[An Introduction to Python - 3. Conditional Statements](Tutorials/Tutorial_3.md)
-
-[An Introduction to Python - 4. Loops](Tutorials/Tutorial_4.md)
 
 ## Lectures
 
-[Lecture 1: Data Types](Lectures/Lecture_2.md)
 
 <br/>
 <br/>
