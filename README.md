@@ -7,6 +7,8 @@ This repository contains course materials for COT3502 - Computer Model Formulati
 
 [Tutorial 2: An Introduction to Python - Data Types, Operators, Variables, and Errors](https://colab.research.google.com/drive/1n16hl4wYgLMSijwgCMtx25IunEvWOg42?usp=sharing)
 
+[Tutorial 3: An Introduction to Python - Conditional Statements](https://colab.research.google.com/drive/1bgW0MghNl0jAUh5_nCLxWTM9Ng4M6DjP?usp=sharing)
+
 ## Lectures
 
 [Course Intro](/Lectures/0_IntroSlides_COT3502.pdf)
