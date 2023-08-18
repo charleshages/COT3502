@@ -13,6 +13,9 @@ This repository contains course materials for COT3502 - Computer Model Formulati
 
 [Lecture 1: Data Types, Operators, and Expressions](https://colab.research.google.com/drive/1NvUz-DXAx2doZ2mzSvV6peAMYz_d1Lth?usp=sharing)
 
+[Lecture 2: Assignment and Statements](https://colab.research.google.com/drive/1WlPZ43KtPgwy59GwujJPs6aO3g7GboBB?usp=sharing)
+
+
 <br/>
 <br/>
 <br/>
