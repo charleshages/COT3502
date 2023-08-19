@@ -17,6 +17,8 @@ This repository contains course materials for COT3502 - Computer Model Formulati
 
 [Lecture 2: Assignment and Statements](https://colab.research.google.com/drive/1WlPZ43KtPgwy59GwujJPs6aO3g7GboBB?usp=sharing)
 
+[Lecture 3: Conditional Statements and Flowcharts](https://colab.research.google.com/drive/1ZAvIHrgPyRsBIcP_TtllzYnpvwLB1Opu?usp=sharing)
+
 
 <br/>
 <br/>
