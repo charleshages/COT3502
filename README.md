@@ -19,6 +19,9 @@ This repository contains course materials for COT3502 - Computer Model Formulati
 
 [Lecture 3: Conditional Statements and Flowcharts](https://colab.research.google.com/drive/1ZAvIHrgPyRsBIcP_TtllzYnpvwLB1Opu?usp=sharing)
 
+## Homework 
+
+[Homework 1](https://colab.research.google.com/drive/1vdOaKTm9g90Wj4307LOHUCbuyA5QKmOF?usp=sharing)
 
 <br/>
 <br/>
