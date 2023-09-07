@@ -19,6 +19,8 @@ This repository contains course materials for COT3502 - Computer Model Formulati
 
 [Lecture 3: Conditional Statements](https://colab.research.google.com/drive/16tNQKl3rMkrxvx5XZSZxZOS2jc9D6NaK?usp=sharing)
 
+[Lecture 4: While Loops and Control Structures](https://colab.research.google.com/drive/1HgjeZhlYQ9RpQDRhogGBkk7W5BdqQHos?usp=sharing)
+
 ## Homework 
 
 [Homework 1](https://colab.research.google.com/drive/1vdOaKTm9g90Wj4307LOHUCbuyA5QKmOF?usp=sharing)
