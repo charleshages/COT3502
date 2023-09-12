@@ -21,6 +21,8 @@ This repository contains course materials for COT3502 - Computer Model Formulati
 
 [Lecture 4: While Loops and Control Structures](https://colab.research.google.com/drive/1HgjeZhlYQ9RpQDRhogGBkk7W5BdqQHos?usp=sharing)
 
+[Lecture 5: Sequential Data Types](https://colab.research.google.com/drive/17eK2ZbzRDOOZzlsJZUq8R636h0DRYYSp?usp=sharing)
+
 ## Homework 
 
 [Homework 1](https://colab.research.google.com/drive/1vdOaKTm9g90Wj4307LOHUCbuyA5QKmOF?usp=sharing)
