@@ -29,6 +29,8 @@ This repository contains course materials for COT3502 - Computer Model Formulati
 
 [Homework 2](https://colab.research.google.com/drive/1d5CuMtda5QELwY2Ai8ArWNnbE22lQCVe?usp=sharing)
 
+[Homework 3](https://colab.research.google.com/drive/10UTZ0rWxWgAiiruslDAQ1yPl7i4cFY6s?usp=sharing)
+
 <br/>
 <br/>
 <br/>
