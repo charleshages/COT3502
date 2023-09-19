@@ -9,6 +9,8 @@ This repository contains course materials for COT3502 - Computer Model Formulati
 
 [Tutorial 3: An Introduction to Python - Conditional Statements](https://colab.research.google.com/drive/1bgW0MghNl0jAUh5_nCLxWTM9Ng4M6DjP?usp=sharing)
 
+[Tutorial 4: An Introduction to Python - Loops](https://colab.research.google.com/drive/12XxbwkR9eS8lpeujDxwl8SS521b2snPh?usp=sharing)
+
 [Tutorial 5: An Introduction to Python - Debugging in Python](https://colab.research.google.com/drive/1k0yrS1FIYvbZqABjp3PDIk-TXGx_zdvW?usp=sharing)
 
 ## Lectures
