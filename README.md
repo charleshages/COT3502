@@ -27,6 +27,8 @@ This repository contains course materials for COT3502 - Computer Model Formulati
 
 [Lecture 5: Sequential Data Types](https://colab.research.google.com/drive/17eK2ZbzRDOOZzlsJZUq8R636h0DRYYSp?usp=sharing)
 
+[Lecture 6: For Loops](https://colab.research.google.com/drive/1LRyJCcIAsoDl_e7LpHinFbyK1cvh-i1h?usp=sharing)
+
 ## Homework 
 
 [Homework 1](https://colab.research.google.com/drive/1vdOaKTm9g90Wj4307LOHUCbuyA5QKmOF?usp=sharing)
