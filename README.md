@@ -29,6 +29,8 @@ This repository contains course materials for COT3502 - Computer Model Formulati
 
 [Lecture 6: For Loops](https://colab.research.google.com/drive/1LRyJCcIAsoDl_e7LpHinFbyK1cvh-i1h?usp=sharing)
 
+[Lecture 7: Functions](https://colab.research.google.com/drive/1qwWQ5ZaYHzPHjpJ9CqyAJd-NL136qyZK?usp=sharing)
+
 ## Homework 
 
 [Homework 1](https://colab.research.google.com/drive/1vdOaKTm9g90Wj4307LOHUCbuyA5QKmOF?usp=sharing)
