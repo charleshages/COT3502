@@ -33,6 +33,8 @@ This repository contains course materials for COT3502 - Computer Model Formulati
 
 [Lecture 8: Modules and Plotting](https://colab.research.google.com/drive/1_WDrxcQE161jEMnSVKEdvSfqrv7ioVBx?usp=sharing)
 
+[Spirograph Project Notes](/Lectures/Spirograph Project Notes.pdf)
+
 ## Homework 
 
 [Homework 1](https://colab.research.google.com/drive/1vdOaKTm9g90Wj4307LOHUCbuyA5QKmOF?usp=sharing)
