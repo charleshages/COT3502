@@ -39,6 +39,8 @@ This repository contains course materials for COT3502 - Computer Model Formulati
 
 [Root Finding - Bisection](https://colab.research.google.com/drive/1Yd2wMZVhbuL3mXicIUbNlCVBTKgyvOjf?usp=sharing)
 
+[Fixed Point Iteration](https://colab.research.google.com/drive/1BIdPveiV8at6VzlHjc6yy7zvXv5fkh1u?usp=sharing)
+
 ## Homework 
 
 [Homework 1](https://colab.research.google.com/drive/1vdOaKTm9g90Wj4307LOHUCbuyA5QKmOF?usp=sharing)
