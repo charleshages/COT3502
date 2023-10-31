@@ -43,6 +43,8 @@ This repository contains course materials for COT3502 - Computer Model Formulati
 
 [Newton-Raphson Method](https://colab.research.google.com/drive/1SQlvdRNb1ROz5cpCLmbp1cIZlseNGBwc?usp=sharing)
 
+[Multivariable NR Method](https://colab.research.google.com/drive/16U6dkDLLzl-SVNredWhQY64CR59s2Z4m?usp=sharing)
+
 ## Homework 
 
 [Homework 1](https://colab.research.google.com/drive/1vdOaKTm9g90Wj4307LOHUCbuyA5QKmOF?usp=sharing)
