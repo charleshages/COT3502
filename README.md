@@ -57,6 +57,12 @@ This repository contains course materials for COT3502 - Computer Model Formulati
 
 [Homework 4](https://colab.research.google.com/drive/1OtLo74qycvS7fi6B5qdJGLkLENxq_S_M?usp=sharing)
 
+[Homework 5](https://colab.research.google.com/drive/1nXDFPsXxhgspPVF1_8200d8ejoPEHbBu?usp=sharing)
+
+[Homework 6](https://colab.research.google.com/drive/1Bj8rUAZjITrzGUJoJjgQQw2KAkGabeBv?usp=sharing)
+
+[Homework 7](https://colab.research.google.com/drive/1FB3EYgK1lsXWREdRPSvktzVC3CJtbRrj?usp=sharing)
+
 ## Projects
 
 [Project 1 - Spirographs](https://drive.google.com/file/d/1-kp7AwKijV5jyS5u5l8AlYo-B1G4MTEM/view?usp=sharing)
