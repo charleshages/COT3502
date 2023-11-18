@@ -47,6 +47,8 @@ This repository contains course materials for COT3502 - Computer Model Formulati
 
 [Numerical Integration](https://colab.research.google.com/drive/11pDgEQalyDcdozd6VvRyfFrYLkorX_5T?usp=sharing)
 
+[ODEs](https://colab.research.google.com/drive/1FnNHsG8ssCd7k61IzvWaBj1ddR96mtI4?usp=sharing)
+
 ## Homework 
 
 [Homework 1](https://colab.research.google.com/drive/1vdOaKTm9g90Wj4307LOHUCbuyA5QKmOF?usp=sharing)
