@@ -49,6 +49,8 @@ This repository contains course materials for COT3502 - Computer Model Formulati
 
 [ODEs](https://colab.research.google.com/drive/1FnNHsG8ssCd7k61IzvWaBj1ddR96mtI4?usp=sharing)
 
+[Systems of ODEs](https://colab.research.google.com/drive/1TMvliEX4EOqotBQf61-yBfL9LYAdJESW?usp=sharing)
+
 ## Homework 
 
 [Homework 1](https://colab.research.google.com/drive/1vdOaKTm9g90Wj4307LOHUCbuyA5QKmOF?usp=sharing)
