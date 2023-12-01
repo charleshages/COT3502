@@ -73,14 +73,13 @@ This repository contains course materials for COT3502 - Computer Model Formulati
 
 [Project 1 - Spirographs](https://drive.google.com/file/d/1-kp7AwKijV5jyS5u5l8AlYo-B1G4MTEM/view?usp=sharing)
 
-<br/>
-<br/>
-<br/>
-
 ## Filled Lecutre Notes & Worksheets
 
 [Filled Lecutre Notes & Worksheets](Filled_Notes.md)
 
+<br/>
+<br/>
+<br/>
 ---
 
 Content for this course was developed by collaboration of Prof. C. J. Hages and Prof. A. J. C. Ladd
