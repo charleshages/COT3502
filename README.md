@@ -75,7 +75,7 @@ This repository contains course materials for COT3502 - Computer Model Formulati
 
 ## Filled Lecutre Notes & Worksheets
 
-[Filled Lecutre Notes & Worksheets](Filled_Notes.md)
+[Filled Lecture Notes & Worksheets](Filled_Notes.md)
 
 <br/>
 <br/>
