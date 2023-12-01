@@ -2,8 +2,6 @@
 
 ## Lectures
 
-[Course Intro (Full)](/Lectures/0_IntroSlides_COT3502.pdf)
-
 [Lecture 1: Data Types, Operators, and Expressions (Full)](https://colab.research.google.com/drive/1B_0IxTsVJ_m0jebHe41DIbnaxmNZ_lPG?usp=sharing)
 
 [Lecture 2: Assignment and Statements (Full)](https://colab.research.google.com/drive/15vIBHLwLcZ4d2lt86Mt95xcuQ7-bwIpL?usp=sharing)
