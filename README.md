@@ -77,6 +77,8 @@ This repository contains course materials for COT3502 - Computer Model Formulati
 <br/>
 <br/>
 
+##[Filled Lecutre Notes & Worksheets](COT3502/Filled_Notes.md)
+
 ---
 
 Content for this course was developed by collaboration of Prof. C. J. Hages and Prof. A. J. C. Ladd
